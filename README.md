@@ -9,7 +9,7 @@ My little game project from Udemy online course ["How to Program Games: Tile Cla
 ### How to run the game
 * Clone or download the repo
   ```
-  git clone https://github.com/terngkub/pingpong.git
+  git clone https://github.com/terngkub/brick_breaker.git
   ```
 * Go to the game directory
 * Open game.html in your browser
