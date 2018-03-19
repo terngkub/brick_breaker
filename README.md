@@ -1,8 +1,8 @@
-# pingpong
+# brick_breaker
 Brick breaker HTML5 game
 
 ### About this project
-My little game project from Udemy online course ["Code Your First Game"](https://www.udemy.com/code-your-first-game). The game is created on HTML5 canvas and mostly javascript.
+My little game project from Udemy online course ["How to Program Games: Tile Classics in JS for HTML5 Canvas"](https://www.udemy.com/how-to-program-games). The game is created on HTML5 canvas and mostly javascript.
 
 ![Brick Breaker](/screenshot/screenshot.png?raw=true)
 
